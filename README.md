@@ -1,16 +1,18 @@
 # Generative AI Developer Roadmap
 
-**Month 1** — You understood LLMs and RAG at a mechanical level. You stopped being a developer who uses AI and started being a developer who understands AI.
+## 🗺️ The Roadmap
 
-**Month 2** — You built agents that do real autonomous work. You understand how they fail and how to make them recover.
+| Month       | Theme                         | Core Skills                                              |
+| ----------- | ----------------------------- | -------------------------------------------------------- |
+| **Month 1** | LLM Mastery + RAG Foundations | LLM APIs, Prompt Engineering, RAG from Scratch, Evals    |
+| **Month 2** | AI Agents                     | ReAct, Tool Use, Multi-Agent, Browser Automation, Memory |
+| **Month 3** | Production Systems            | Advanced RAG, Observability, Security, Fine-tuning       |
+| **Month 4** | Advanced Capabilities         | Voice AI, Multimodal, Workflow Automation, Portfolio     |
+| **Month 5** | Cloud + Client Delivery       | AWS, CI/CD, MCP, Client Handoff                          |
 
-**Month 3** — You built production-grade systems — fast, accurate, observable, and secure. You can measure quality and improve it systematically.
+---
 
-**Month 4** — You added voice, multimodal, and workflow automation. You have a portfolio of 10+ projects that prove capability rather than claiming it.
-
-**Month 5** — You can ship to real clients professionally. You deploy on AWS, automate your deployments, integrate any tool via MCP, and hand off systems with documentation and dashboards that make clients feel taken care of.
-
-# Setting Up and Running the Project with uv
+## Setting Up and Running the Project with uv
 
 This guide explains how to download `uv`, set up the project environment, and run it.
 
