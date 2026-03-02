@@ -1,5 +1,7 @@
 # Generative AI Developer Roadmap
 
+[Plan](https://www.notion.so/Generative-AI-roadmap-31667a21d22d8062a208f59086e32d28?source=copy_link)
+
 ## 🗺️ The Roadmap
 
 | Month       | Theme                         | Core Skills                                              |
