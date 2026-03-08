@@ -42,6 +42,20 @@ uv --version
 
 You should see the version number displayed.
 
+If you want to create a new project with `uv`:
+
+```bash
+mkdir my_project
+cd my_project
+uv init
+```
+
+### How to activate the virtual environment created by `uv`:
+
+```bash
+source .venv/bin/activate
+```
+
 ---
 
 ## Step 2: How to add dependencies to the project
